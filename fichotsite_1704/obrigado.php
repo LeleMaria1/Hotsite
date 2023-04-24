@@ -37,7 +37,9 @@
     $cidade = ['city'];
 
     echo "Nome: " . $_POST['name'];
+    echo "<br>";
     echo "Idade: " . $_POST['age'];
+    echo "<br>";
     echo "Cidade: " . $_POST['city'];
     
 
